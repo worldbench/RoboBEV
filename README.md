@@ -66,6 +66,31 @@ Visit our [project page](https://daniel-xsy.github.io/robobev/) to explore more 
 
 
 
+### :books: Citation
+If you find this work helpful, please kindly consider citing the following:
+
+```bibtex
+@article{xie2025benchmarking,
+    title     = {Benchmarking and Improving Bird's Eye View Perception Robustness in Autonomous Driving},
+    author    = {Xie, Shaoyuan and Kong, Lingdong and Zhang, Wenwei and Ren, Jiawei and Pan, Liang and Chen, Kai and Liu, Ziwei},
+    journal   = {IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI},
+    volume    = {47},
+    number    = {5},
+    pages     = {3878-3894},  
+    year      = {2025},
+    publisher = {IEEE}
+}
+```
+```bibtex
+@article{xie2023robobev,
+    title     = {{RoboBEV}: Towards Robust Bird's Eye View Perception under Corruptions},
+    author    = {Xie, Shaoyuan and Kong, Lingdong and Zhang, Wenwei and Ren, Jiawei and Pan, Liang and Chen, Kai and Liu, Ziwei},
+    journal   = {arXiv preprint arXiv:2304.06719}, 
+    year      = {2023}
+}
+```
+
+
 
 ## Updates
 
@@ -303,27 +328,6 @@ You can manage to create your own "RoboBEV" corrpution sets! Follow the instruct
 - [x] Establish benchmark for multi-camera semantic occupancy prediction.
 - [ ] ...
 
-
-## Citation
-If you find this work helpful, please kindly consider citing the following:
-
-```bibtex
-@article{xie2025benchmarking,
-  title={Benchmarking and Improving Bird's Eye View Perception Robustness in Autonomous Driving},
-  author={Xie, Shaoyuan and Kong, Lingdong and Zhang, Wenwei and Ren, Jiawei and Pan, Liang and Chen, Kai and Liu, Ziwei},
-  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
-  year={2025},
-  publisher={IEEE}
-}
-```
-```bibtex
-@article{xie2023robobev,
-    title = {RoboBEV: Towards Robust Bird's Eye View Perception under Corruptions},
-    author = {Xie, Shaoyuan and Kong, Lingdong and Zhang, Wenwei and Ren, Jiawei and Pan, Liang and Chen, Kai and Liu, Ziwei},
-    journal = {arXiv preprint arXiv:2304.06719}, 
-    year = {2023}
-}
-```
 
 
 ## License
