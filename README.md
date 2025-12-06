@@ -73,12 +73,11 @@ If you find this work helpful, please kindly consider citing the following:
 @article{xie2025benchmarking,
     title     = {Benchmarking and Improving Bird's Eye View Perception Robustness in Autonomous Driving},
     author    = {Xie, Shaoyuan and Kong, Lingdong and Zhang, Wenwei and Ren, Jiawei and Pan, Liang and Chen, Kai and Liu, Ziwei},
-    journal   = {IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI},
+    journal   = {IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)},
     volume    = {47},
     number    = {5},
     pages     = {3878-3894},  
-    year      = {2025},
-    publisher = {IEEE}
+    year      = {2025}
 }
 ```
 ```bibtex
